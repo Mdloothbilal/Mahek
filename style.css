@@ -24,8 +24,8 @@ body{
     transform-style: preserve-3d;
 }
 .outside,.inside{
-    width: 100%;
-    height: 100%;
+    width: 60%;
+    height: 60%;
     border-radius: 20px;
     text-align: center;
     padding: 1rem;
@@ -37,7 +37,7 @@ body{
     backface-visibility: hidden;
 }
 .outside h1{
-    font-size: 3rem;
+    font-size: 1rem;
     font-weight: bold;
     color: salmon;
     margin-bottom: 30px;
